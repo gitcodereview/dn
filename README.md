@@ -1,3 +1,3 @@
 - dnn model: model.distnet_2d.get_distnet_2d
 - training iterator (reads images, generates model input and ground truth): data.dxdy_iterator
-- java code for dnn output post-processing (segment and track from proxies): https://gist.github.com/gitcodereview/b563362a0f0c6062c0b116e00e675c97
+- java code for processing the DNN output (segment and track from proxies): https://gist.github.com/gitcodereview/b563362a0f0c6062c0b116e00e675c97
